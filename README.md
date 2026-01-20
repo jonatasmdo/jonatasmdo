@@ -10,7 +10,7 @@
   <img align="center" alt="Jôantas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <div> 
-  <a href="https://substack.com/@sirjd" target="_blank"><img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/substack-app-icon.png" target="_blank"></a>
+  <a href="https://substack.com/@sirjd" target="_blank"><img src="/home/hozumi/Downloads/substackgithub.png" target="_blank"></a>
 
   
 </div>
