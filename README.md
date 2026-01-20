@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá, me chamo Jônatas e estou estudando programação, estarei subindo aos poucos meus projetos pessoas e dos cursos que estou fazendo.👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jôantas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
